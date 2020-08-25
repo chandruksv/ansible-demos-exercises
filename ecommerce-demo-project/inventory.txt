@@ -1,0 +1,2 @@
+# target2 ansible_host=192.168.1.164 ansible_connection=ssh ansible_user=chandruksv ansible_ssh_pass=Chelva9i
+target1 ansible_host=192.168.56.103 ansible_user=root ansible_ssh_pass=osboxes.org
